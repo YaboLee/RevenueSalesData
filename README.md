@@ -32,8 +32,15 @@ Otherwise, you can directly see the output of it in the notebook.
 
    Java package that grab table from pdf file and save to csv.
 
+**Note: **Final output files are in the root directory. Data files in the data/ directory is mid-way data.
+
 ## Done
 
 1. Grab table from the pdf file and save it to csv.
 2. Manipulate data scheme for further analysis.
+
+## Future
+
+1. Improve data
+2. Learn Tableau
 
